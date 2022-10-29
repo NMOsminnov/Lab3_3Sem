@@ -24,6 +24,7 @@
     <ProjectGuid>{c296fa12-c1f2-4509-a487-1ec3a4f64139}</ProjectGuid>
     <RootNamespace>Lab43Sem</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Lab3</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Generators.cpp" />
-    <ClCompile Include="Lab4(3Sem).cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Sort.cpp" />
   </ItemGroup>
   <ItemGroup>
